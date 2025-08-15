@@ -14,6 +14,7 @@ This project implements a Joint Embedding Predictive Architecture (JEPA) world m
 ## Highlight Technologies
 
 - **PyTorch & PyTorch Lightning:** Deep learning framework for model definition, training, and checkpointing.
+- **TensorBoard:** Metrics logging and visualization.
 - **OpenAI Gymnasium:** Standardized RL environment for agent simulation.
 - **NumPy & Matplotlib:** Data manipulation and visualization.
 - **Scikit-learn:** Utility functions for analysis.
